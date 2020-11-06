@@ -7,7 +7,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-var s = "https://sleepycat.in";
+var s = "https://test.sleepycat.in";
 echo "Hello World!";
 ?>
 
