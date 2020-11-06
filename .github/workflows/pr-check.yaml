@@ -9,5 +9,4 @@ jobs:
       uses: JJ/github-pr-contains-action@releases/v2
       with:
         github-token: ${{github.token}}
-        bodyDoesNotContain: 'test.sleepycat.in'
-        diffContains: 'https://sleepycat.in'
+        diffContains: 'ayush gupta'
